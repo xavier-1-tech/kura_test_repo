@@ -10,7 +10,7 @@ Test Repository for Kura Labs
 
 **For Bold Text use 2 asterisk**
 
-*For Italic Text use 1 asterisk
+*For Italic Text use 1 asterisk*
 
 ![Cat](https://wallpaperaccess.com/full/4023744.jpg)
 
