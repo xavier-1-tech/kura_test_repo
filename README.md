@@ -1,4 +1,4 @@
-# kura_test_repo
+# Cat Pic
 Test Repository for Kura Labs
 
 # H1 Heading (1 Hastag)
