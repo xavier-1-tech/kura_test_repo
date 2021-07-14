@@ -8,9 +8,9 @@ Test Repository for Kura Labs
 ##### H5 Heading (5 Hastags)
 ###### H6 Heading (6 Hastags)
 
-**For Bold Text use 2 asterisk**
+**For Bold Text use 2 asterisk before and after text**
 
-*For Italic Text use 1 asterisk*
+*For Italic Text use 1 asterisk before and after text*
 
 ![Cat](https://wallpaperaccess.com/full/4023744.jpg)
 
